@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="hello_world_text_placeholder">&lt;Text Goes Here&gt;</string>
+    <string name="hello_world_text_content">Hello World.</string>
+    <string name="hello_world_button">SAY HELLO</string>
+</resources>

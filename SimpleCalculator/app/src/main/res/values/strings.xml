@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZhaozhanHuang-SimpleCalculator</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="times">x</string>
+    <string name="over">÷</string>
+    <string name="error_prompt_zero">Cannot divide by 0. Try a different number.</string>
+    <string name="error_prompt_type">Invalid input. Please enter a decimal number. </string>
+</resources>

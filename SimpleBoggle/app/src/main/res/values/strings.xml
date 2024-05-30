@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleBoggle</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">Score: %1$d</string>
+    <string name="word">Current word: %1$s</string>
+    <string name="prompt">Enter a word then click submit</string>
+
+</resources>

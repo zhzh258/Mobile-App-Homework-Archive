@@ -1,0 +1,73 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/celsius"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/celsius"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <SeekBar
+        android:id="@+id/celsius_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:min="0"
+        android:max="100"/>
+
+    <TextView
+        android:id="@+id/celsius_number"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="40sp"
+        android:gravity="end"
+        android:textColor="#0000ff"/>
+
+
+    <TextView
+        android:id="@+id/fahrenheit"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/fahrenheit"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <SeekBar
+        android:id="@+id/fahrenheit_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:min="0"
+        android:max="212"/>
+
+    <TextView
+        android:id="@+id/fahrenheit_number"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="40sp"
+        android:gravity="end"
+        android:textColor="#0000ff"/>
+
+    <TextView
+        android:id="@+id/interesting_message"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=""
+        android:textSize="40sp"
+        android:gravity="center"/>
+
+</LinearLayout>

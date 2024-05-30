@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3-Q3</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius_min">0</string>
+    <string name="celsius_max">100</string>
+    <string name="fahrenheit_min">0</string>
+    <string name="fahrenheit_max">212</string>
+    <string name="interesting_message_low">I wish it were warmer</string>
+    <string name="interesting_message_high">I wish it were colder</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">犯罪</string>
+    <string name="crime_title_hint">输入罪名</string>
+    <string name="crime_title_label">名称</string>
+    <string name="crime_details_label">内容</string>
+    <string name="crime_solved_label">已解决</string>
+</resources>
